@@ -136,3 +136,4 @@ contract DemoOracle {
 | Network        | StdReference Contract Address                                                                                                                               |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cronos Testnet | [`0xE0d9A9ABEaa8Ec7a1184c6Eeb2ecb641Ba214644`](https://cronos.crypto.org/explorer/testnet3/address/0xE0d9A9ABEaa8Ec7a1184c6Eeb2ecb641Ba214644/transactions) |
+| Cronos Mainnet | [`0xA55d9ef16Af921b70Fed1421C1D298Ca5A3a18F1`](https://cronoscan.com/address/0xA55d9ef16Af921b70Fed1421C1D298Ca5A3a18F1) |
