@@ -98,7 +98,7 @@ contract DemoOracle {
 
     uint256 public price;
 
-    constructor(IStdReference _ref) public {
+    constructor(IStdReference _ref) {
         ref = _ref;
     }
 
@@ -130,6 +130,18 @@ contract DemoOracle {
     }
 }
 ```
+
+## Deploy DemoOracle to Cronos Testnet
+
+1. Copy and paste the above contract into [Remix](https://remix.ethereum.org/), an online editor. 
+2. Add //SPDX-License-Identifier
+3. Compile the contract with compiler version 0.8.3.
+4. Switch to the Deploy tab of Remix.
+5. Select `Injected Web3` in the Environment dropdown in the top left to connect Metamask.
+    - Make sure that Metamask is connected to the Cronos test network, you can refer to our [official documentation](https://cronos.org/docs/resources/chain-integration.html#integration-guide-for-cronos-testnet).
+7. Deploy the contract with the below Cronos testnet Band reference data aggregator contract address
+    - `0xE0d9A9ABEaa8Ec7a1184c6Eeb2ecb641Ba214644`
+8. Hooray, you can now fetch the latest CRO price via Band Protocol
 
 ## Contract Addresses
 
