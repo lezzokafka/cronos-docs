@@ -62,4 +62,8 @@ Cronos is the first Ethereum-compatible blockchain network built on Cosmos SDK t
 
 ### Useful links
 
-\- \[Project Website]\(https://cronos.org) - \[Project Repository]\(https://github.com/crypto-org-chain/cronos) - Community chatrooms (non-technical): \[Discord]\(https://discord.gg/nsp9JTC) \[Telegram]\(https://t.me/CryptoComOfficial) - Developer community channel (technical): \[!\[Support Server]\(https://img.shields.io/discord/783264383978569728.svg?color=7289da\&label=Crypto.org Chain)]\(https://discord.gg/pahqHz26q4)
+* [Project Website](https://cronos.org)
+* [Project Repository](https://github.com/crypto-org-chain/cronos)
+* [Community chatrooms (non-technical)](https://discord.gg/nsp9JTC)
+* [Telegram](https://t.me/CryptoComOfficial)
+* [Developer community channel (technical)](https://discord.gg/pahqHz26q4)
