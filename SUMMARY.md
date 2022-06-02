@@ -53,3 +53,4 @@
   * [module\_slashing](chain-details/module\_slashing.md)
   * [module\_staking](chain-details/module\_staking.md)
   * [List of parameters](chain-details/parameters.md)
+* [Page 1](page-1.md)
