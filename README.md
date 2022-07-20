@@ -29,6 +29,7 @@ meta:
   - name: twitter:image
     content: https://cronos.org/og-image.png
 canonicalUrl: https://cronos.org/docs/getting-started/
+layout: landing
 ---
 
 # Getting Started
